@@ -1,4 +1,4 @@
-# Linear-Block-Code
+![image](https://github.com/user-attachments/assets/7a41ca1b-64b3-48cf-9cae-cf8eb711583b)# Linear-Block-Code
 ## Aim
 The aim of linear block coding is to detect and correct errors during digital data transmission by adding redundant bits to the original data in a structured way, using linear algebra over binary fields.
 
@@ -115,6 +115,9 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 
 ![WhatsApp Image 2025-04-12 at 16 01 07_aa96423e](https://github.com/user-attachments/assets/b8ff6c96-0178-4084-ae14-c8ea99a7f5d4)
 
+![image](https://github.com/user-attachments/assets/5ee9c616-7578-44aa-a2c9-b248ef80c0fd)
+
+![image](https://github.com/user-attachments/assets/10bf4bd4-1bc0-495d-a39f-46c55720056b)
 
 ## Result
 Using linear block codes, errors in transmitted data can be efficiently detected and corrected, 
