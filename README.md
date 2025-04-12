@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/7a41ca1b-64b3-48cf-9cae-cf8eb711583b)# Linear-Block-Code
+# Linear-Block-Code
 ## Aim
 The aim of linear block coding is to detect and correct errors during digital data transmission by adding redundant bits to the original data in a structured way, using linear algebra over binary fields.
 
